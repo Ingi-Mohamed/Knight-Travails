@@ -9,12 +9,10 @@
 using namespace std;
 
 
-void possible();
-void exits(int);
+
 void setup();
 void draw();
 void input();
-void setup();
 void check();
 
 const int l=18,w=18;//board (display) length ,width
