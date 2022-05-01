@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651429761 source:c:\users\ingi\desktop\game 3\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<bits/stdc++.h>
+	<ctime>
+	<windows.h>
+	<chrono>
+
